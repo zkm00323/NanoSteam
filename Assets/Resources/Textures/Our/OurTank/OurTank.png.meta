@@ -1,0 +1,1909 @@
+fileFormatVersion: 2
+guid: ad9ba3a99c119e949857fc92570dc7f2
+timeCreated: 1520151646
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OurTank_0
+    21300002: OurTank_1
+    21300004: OurTank_2
+    21300006: OurTank_3
+    21300008: OurTank_4
+    21300010: OurTank_5
+    21300012: OurTank_6
+    21300014: OurTank_7
+    21300016: OurTank_8
+    21300018: OurTank_9
+    21300020: OurTank_10
+    21300022: OurTank_11
+    21300024: OurTank_12
+    21300026: OurTank_13
+    21300028: OurTank_14
+    21300030: OurTank_15
+    21300032: OurTank_16
+    21300034: OurTank_17
+    21300036: OurTank_18
+    21300038: OurTank_19
+    21300040: OurTank_20
+    21300042: OurTank_21
+    21300044: OurTank_22
+    21300046: OurTank_23
+    21300048: OurTank_24
+    21300050: OurTank_25
+    21300052: OurTank_26
+    21300054: OurTank_27
+    21300056: OurTank_28
+    21300058: OurTank_29
+    21300060: OurTank_30
+    21300062: OurTank_31
+    21300064: OurTank_32
+    21300066: OurTank_33
+    21300068: OurTank_34
+    21300070: OurTank_35
+    21300072: OurTank_36
+    21300074: OurTank_37
+    21300076: OurTank_38
+    21300078: OurTank_39
+    21300080: OurTank_40
+    21300082: OurTank_41
+    21300084: OurTank_42
+    21300086: OurTank_43
+    21300088: OurTank_44
+    21300090: OurTank_45
+    21300092: OurTank_46
+    21300094: OurTank_47
+    21300096: OurTank_48
+    21300098: OurTank_49
+    21300100: OurTank_50
+    21300102: OurTank_51
+    21300104: OurTank_52
+    21300106: OurTank_53
+    21300108: OurTank_54
+    21300110: OurTank_55
+    21300112: OurTank_56
+    21300114: OurTank_57
+    21300116: OurTank_58
+    21300118: OurTank_59
+    21300120: OurTank_60
+    21300122: OurTank_61
+    21300124: OurTank_62
+    21300126: OurTank_63
+    21300128: OurTank_64
+    21300130: OurTank_65
+    21300132: OurTank_66
+    21300134: OurTank_67
+    21300136: OurTank_68
+    21300138: OurTank_69
+    21300140: OurTank_70
+    21300142: OurTank_71
+    21300144: OurTank_72
+    21300146: OurTank_73
+    21300148: OurTank_74
+    21300150: OurTank_75
+    21300152: OurTank_76
+    21300154: OurTank_77
+    21300156: OurTank_78
+    21300158: OurTank_79
+    21300160: OurTank_80
+    21300162: OurTank_81
+    21300164: OurTank_82
+    21300166: OurTank_83
+    21300168: OurTank_84
+    21300170: OurTank_85
+    21300172: OurTank_86
+    21300174: OurTank_87
+    21300176: OurTank_88
+    21300178: OurTank_89
+    21300180: OurTank_90
+    21300182: OurTank_91
+    21300184: OurTank_92
+    21300186: OurTank_93
+    21300188: OurTank_94
+    21300190: OurTank_95
+    21300192: OurTank_96
+    21300194: OurTank_97
+    21300196: OurTank_98
+    21300198: OurTank_99
+    21300200: OurTank_100
+    21300202: OurTank_101
+    21300204: OurTank_102
+    21300206: OurTank_103
+    21300208: OurTank_104
+    21300210: OurTank_105
+    21300212: OurTank_106
+    21300214: OurTank_107
+    21300216: OurTank_108
+    21300218: OurTank_109
+    21300220: OurTank_110
+    21300222: OurTank_111
+    21300224: OurTank_112
+    21300226: OurTank_113
+    21300228: OurTank_114
+    21300230: OurTank_115
+    21300232: OurTank_116
+    21300234: OurTank_117
+    21300236: OurTank_118
+    21300238: OurTank_119
+    21300240: OurTank_120
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OurTank_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_2
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_7
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_8
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_9
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_10
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_12
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_13
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_14
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_15
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_16
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_17
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_18
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_19
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_20
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_21
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_25
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_26
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_27
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_28
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_29
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_30
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_31
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_32
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 944
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_34
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_35
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_36
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_37
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_38
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_39
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_40
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_41
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_42
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_43
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_45
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_46
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_48
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_49
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_50
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_51
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_52
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_53
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_54
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_56
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_57
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_58
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_59
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_60
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_61
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_62
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_63
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_64
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_65
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_67
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_68
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_69
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_70
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_71
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_72
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_73
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_74
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_75
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_76
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_78
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_79
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_80
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_81
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_82
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_83
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_84
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_85
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_86
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_87
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_89
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_90
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_91
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_92
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_93
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_94
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_95
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_96
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_97
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_98
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_100
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_101
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_102
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_103
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_104
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_105
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_106
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_107
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_108
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_109
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_111
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_112
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_113
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_114
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_115
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_116
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_117
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_118
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_119
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank_120
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2959 @@
+fileFormatVersion: 2
+guid: 6c1bbf05d35a8f847b4b33d07e939480
+timeCreated: 1521865523
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Main_glove_0
+    21300002: Main_glove_1
+    21300004: Main_glove_2
+    21300006: Main_glove_3
+    21300008: Main_glove_4
+    21300010: Main_glove_5
+    21300012: Main_glove_6
+    21300014: Main_glove_7
+    21300016: Main_glove_8
+    21300018: Main_glove_9
+    21300020: Main_glove_10
+    21300022: Main_glove_11
+    21300024: Main_glove_12
+    21300026: Main_glove_13
+    21300028: Main_glove_14
+    21300030: Main_glove_15
+    21300032: Main_glove_16
+    21300034: Main_glove_17
+    21300036: Main_glove_18
+    21300038: Main_glove_19
+    21300040: Main_glove_20
+    21300042: Main_glove_21
+    21300044: Main_glove_22
+    21300046: Main_glove_23
+    21300048: Main_glove_24
+    21300050: Main_glove_25
+    21300052: Main_glove_26
+    21300054: Main_glove_27
+    21300056: Main_glove_28
+    21300058: Main_glove_29
+    21300060: Main_glove_30
+    21300062: Main_glove_31
+    21300064: Main_glove_32
+    21300066: Main_glove_33
+    21300068: Main_glove_34
+    21300070: Main_glove_35
+    21300072: Main_glove_36
+    21300074: Main_glove_37
+    21300076: Main_glove_38
+    21300078: Main_glove_39
+    21300080: Main_glove_40
+    21300082: Main_glove_41
+    21300084: Main_glove_42
+    21300086: Main_glove_43
+    21300088: Main_glove_44
+    21300090: Main_glove_45
+    21300092: Main_glove_46
+    21300094: Main_glove_47
+    21300096: Main_glove_48
+    21300098: Main_glove_49
+    21300100: Main_glove_50
+    21300102: Main_glove_51
+    21300104: Main_glove_52
+    21300106: Main_glove_53
+    21300108: Main_glove_54
+    21300110: Main_glove_55
+    21300112: Main_glove_56
+    21300114: Main_glove_57
+    21300116: Main_glove_58
+    21300118: Main_glove_59
+    21300120: Main_glove_60
+    21300122: Main_glove_61
+    21300124: Main_glove_62
+    21300126: Main_glove_63
+    21300128: Main_glove_64
+    21300130: Main_glove_65
+    21300132: Main_glove_66
+    21300134: Main_glove_67
+    21300136: Main_glove_68
+    21300138: Main_glove_69
+    21300140: Main_glove_70
+    21300142: Main_glove_71
+    21300144: Main_glove_72
+    21300146: Main_glove_73
+    21300148: Main_glove_74
+    21300150: Main_glove_75
+    21300152: Main_glove_76
+    21300154: Main_glove_77
+    21300156: Main_glove_78
+    21300158: Main_glove_79
+    21300160: Main_glove_80
+    21300162: Main_glove_81
+    21300164: Main_glove_82
+    21300166: Main_glove_83
+    21300168: Main_glove_84
+    21300170: Main_glove_85
+    21300172: Main_glove_86
+    21300174: Main_glove_87
+    21300176: Main_glove_88
+    21300178: Main_glove_89
+    21300180: Main_glove_90
+    21300182: Main_glove_91
+    21300184: Main_glove_92
+    21300186: Main_glove_93
+    21300188: Main_glove_94
+    21300190: Main_glove_95
+    21300192: Main_glove_96
+    21300194: Main_glove_97
+    21300196: Main_glove_98
+    21300198: Main_glove_99
+    21300200: Main_glove_100
+    21300202: Main_glove_101
+    21300204: Main_glove_102
+    21300206: Main_glove_103
+    21300208: Main_glove_104
+    21300210: Main_glove_105
+    21300212: Main_glove_106
+    21300214: Main_glove_107
+    21300216: Main_glove_108
+    21300218: Main_glove_109
+    21300220: Main_glove_110
+    21300222: Main_glove_111
+    21300224: Main_glove_112
+    21300226: Main_glove_113
+    21300228: Main_glove_114
+    21300230: Main_glove_115
+    21300232: Main_glove_116
+    21300234: Main_glove_117
+    21300236: Main_glove_118
+    21300238: Main_glove_119
+    21300240: Main_glove_120
+    21300242: Main_glove_121
+    21300244: Main_glove_122
+    21300246: Main_glove_123
+    21300248: Main_glove_124
+    21300250: Main_glove_125
+    21300252: Main_glove_126
+    21300254: Main_glove_127
+    21300256: Main_glove_128
+    21300258: Main_glove_129
+    21300260: Main_glove_130
+    21300262: Main_glove_131
+    21300264: Main_glove_132
+    21300266: Main_glove_133
+    21300268: Main_glove_134
+    21300270: Main_glove_135
+    21300272: Main_glove_136
+    21300274: Main_glove_137
+    21300276: Main_glove_138
+    21300278: Main_glove_139
+    21300280: Main_glove_140
+    21300282: Main_glove_141
+    21300284: Main_glove_142
+    21300286: Main_glove_143
+    21300288: Main_glove_144
+    21300290: Main_glove_145
+    21300292: Main_glove_146
+    21300294: Main_glove_147
+    21300296: Main_glove_148
+    21300298: Main_glove_149
+    21300300: Main_glove_150
+    21300302: Main_glove_151
+    21300304: Main_glove_152
+    21300306: Main_glove_153
+    21300308: Main_glove_154
+    21300310: Main_glove_155
+    21300312: Main_glove_156
+    21300314: Main_glove_157
+    21300316: Main_glove_158
+    21300318: Main_glove_159
+    21300320: Main_glove_160
+    21300322: Main_glove_161
+    21300324: Main_glove_162
+    21300326: Main_glove_163
+    21300328: Main_glove_164
+    21300330: Main_glove_165
+    21300332: Main_glove_166
+    21300334: Main_glove_167
+    21300336: Main_glove_168
+    21300338: Main_glove_169
+    21300340: Main_glove_170
+    21300342: Main_glove_171
+    21300344: Main_glove_172
+    21300346: Main_glove_173
+    21300348: Main_glove_174
+    21300350: Main_glove_175
+    21300352: Main_glove_176
+    21300354: Main_glove_177
+    21300356: Main_glove_178
+    21300358: Main_glove_179
+    21300360: Main_glove_180
+    21300362: Main_glove_181
+    21300364: Main_glove_182
+    21300366: Main_glove_183
+    21300368: Main_glove_184
+    21300370: Main_glove_185
+    21300372: Main_glove_186
+    21300374: Main_glove_187
+    21300376: Main_glove_188
+    21300378: Main_glove_189
+    21300380: Main_glove_190
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Main_glove_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_4
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_5
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_6
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_7
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_8
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_9
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_10
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_11
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1890
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_15
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_16
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_17
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_18
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_19
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_20
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_21
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_22
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_23
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1764
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_25
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_28
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_29
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_30
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_31
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_32
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_33
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_34
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_35
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1638
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_38
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_39
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_40
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_41
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_42
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_43
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_44
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_45
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_46
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_47
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1512
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_50
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_51
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_52
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_53
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_54
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_55
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_56
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_57
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_58
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_59
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1386
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_61
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_62
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_63
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_64
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_65
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_66
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_67
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_68
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_69
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_70
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_71
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1260
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_73
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_74
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_75
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_76
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_77
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_78
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_79
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_80
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_81
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_82
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_83
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1134
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_86
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_87
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_88
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_89
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_90
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_91
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_92
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_93
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_94
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_95
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 1008
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_97
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_98
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_99
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_100
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_101
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_102
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_103
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_104
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_105
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_106
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_107
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 882
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_109
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_110
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_111
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_112
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_113
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_114
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_115
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_116
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_117
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_118
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_119
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 756
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_121
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_122
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_123
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_124
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_125
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_126
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_127
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_128
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_129
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_130
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_131
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 630
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_133
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_134
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_135
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_136
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_137
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_138
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_139
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_140
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_141
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_142
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_143
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 504
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_145
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_146
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_147
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_148
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_149
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_150
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_151
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_152
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_153
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_154
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_155
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 378
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_157
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_158
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_159
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_160
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_161
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_162
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_163
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_164
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_165
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_166
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_167
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 252
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_169
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_170
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_171
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_172
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_173
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_174
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_175
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_176
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_177
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_178
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_179
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 126
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_180
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_181
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_182
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_183
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_184
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_185
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_186
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_187
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_188
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_189
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Main_glove_190
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 218
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

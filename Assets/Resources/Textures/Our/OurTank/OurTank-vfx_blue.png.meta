@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: a8270d4222563494cb77ea1522d70451
+timeCreated: 1520215950
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OurTank-vfx_blue_0
+    21300002: OurTank-vfx_blue_1
+    21300004: OurTank-vfx_blue_2
+    21300006: OurTank-vfx_blue_3
+    21300008: OurTank-vfx_blue_4
+    21300010: OurTank-vfx_blue_5
+    21300012: OurTank-vfx_blue_6
+    21300014: OurTank-vfx_blue_7
+    21300016: OurTank-vfx_blue_8
+    21300018: OurTank-vfx_blue_9
+    21300020: OurTank-vfx_blue_10
+    21300022: OurTank-vfx_blue_11
+    21300024: OurTank-vfx_blue_12
+    21300026: OurTank-vfx_blue_13
+    21300028: OurTank-vfx_blue_14
+    21300030: OurTank-vfx_blue_15
+    21300032: OurTank-vfx_blue_16
+    21300034: OurTank-vfx_blue_17
+    21300036: OurTank-vfx_blue_18
+    21300038: OurTank-vfx_blue_19
+    21300040: OurTank-vfx_blue_20
+    21300042: OurTank-vfx_blue_21
+    21300044: OurTank-vfx_blue_22
+    21300046: OurTank-vfx_blue_23
+    21300048: OurTank-vfx_blue_24
+    21300050: OurTank-vfx_blue_25
+    21300052: OurTank-vfx_blue_26
+    21300054: OurTank-vfx_blue_27
+    21300056: OurTank-vfx_blue_28
+    21300058: OurTank-vfx_blue_29
+    21300060: OurTank-vfx_blue_30
+    21300062: OurTank-vfx_blue_31
+    21300064: OurTank-vfx_blue_32
+    21300066: OurTank-vfx_blue_33
+    21300068: OurTank-vfx_blue_34
+    21300070: OurTank-vfx_blue_35
+    21300072: OurTank-vfx_blue_36
+    21300074: OurTank-vfx_blue_37
+    21300076: OurTank-vfx_blue_38
+    21300078: OurTank-vfx_blue_39
+    21300080: OurTank-vfx_blue_40
+    21300082: OurTank-vfx_blue_41
+    21300084: OurTank-vfx_blue_42
+    21300086: OurTank-vfx_blue_43
+    21300088: OurTank-vfx_blue_44
+    21300090: OurTank-vfx_blue_45
+    21300092: OurTank-vfx_blue_46
+    21300094: OurTank-vfx_blue_47
+    21300096: OurTank-vfx_blue_48
+    21300098: OurTank-vfx_blue_49
+    21300100: OurTank-vfx_blue_50
+    21300102: OurTank-vfx_blue_51
+    21300104: OurTank-vfx_blue_52
+    21300106: OurTank-vfx_blue_53
+    21300108: OurTank-vfx_blue_54
+    21300110: OurTank-vfx_blue_55
+    21300112: OurTank-vfx_blue_56
+    21300114: OurTank-vfx_blue_57
+    21300116: OurTank-vfx_blue_58
+    21300118: OurTank-vfx_blue_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_0
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_1
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_2
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_3
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1180
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_4
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_5
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_6
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 1062
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_8
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_9
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_10
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_11
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_12
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_13
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 826
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_15
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_16
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_17
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_18
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_19
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_20
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_21
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 708
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_25
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_26
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_27
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_28
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_29
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_30
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 590
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_33
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_34
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_35
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_36
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_37
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_38
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 472
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_40
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_41
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_42
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_43
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_44
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_45
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_46
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 354
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_48
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_49
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_50
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 236
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_51
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_52
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_53
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_54
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_55
+      rect:
+        serializedVersion: 2
+        x: 3440
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_56
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_57
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 118
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_58
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurTank-vfx_blue_59
+      rect:
+        serializedVersion: 2
+        x: 2580
+        y: 0
+        width: 430
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

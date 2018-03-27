@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: cbacf005af1f8474cae90e7380d2b97f
+timeCreated: 1520073952
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OurArcher-vfx_blue_0
+    21300002: OurArcher-vfx_blue_1
+    21300004: OurArcher-vfx_blue_2
+    21300006: OurArcher-vfx_blue_3
+    21300008: OurArcher-vfx_blue_4
+    21300010: OurArcher-vfx_blue_5
+    21300012: OurArcher-vfx_blue_6
+    21300014: OurArcher-vfx_blue_7
+    21300016: OurArcher-vfx_blue_8
+    21300018: OurArcher-vfx_blue_9
+    21300020: OurArcher-vfx_blue_10
+    21300022: OurArcher-vfx_blue_11
+    21300024: OurArcher-vfx_blue_12
+    21300026: OurArcher-vfx_blue_13
+    21300028: OurArcher-vfx_blue_14
+    21300030: OurArcher-vfx_blue_15
+    21300032: OurArcher-vfx_blue_16
+    21300034: OurArcher-vfx_blue_17
+    21300036: OurArcher-vfx_blue_18
+    21300038: OurArcher-vfx_blue_19
+    21300040: OurArcher-vfx_blue_20
+    21300042: OurArcher-vfx_blue_21
+    21300044: OurArcher-vfx_blue_22
+    21300046: OurArcher-vfx_blue_23
+    21300048: OurArcher-vfx_blue_24
+    21300050: OurArcher-vfx_blue_25
+    21300052: OurArcher-vfx_blue_26
+    21300054: OurArcher-vfx_blue_27
+    21300056: OurArcher-vfx_blue_28
+    21300058: OurArcher-vfx_blue_29
+    21300060: OurArcher-vfx_blue_30
+    21300062: OurArcher-vfx_blue_31
+    21300064: OurArcher-vfx_blue_32
+    21300066: OurArcher-vfx_blue_33
+    21300068: OurArcher-vfx_blue_34
+    21300070: OurArcher-vfx_blue_35
+    21300072: OurArcher-vfx_blue_36
+    21300074: OurArcher-vfx_blue_37
+    21300076: OurArcher-vfx_blue_38
+    21300078: OurArcher-vfx_blue_39
+    21300080: OurArcher-vfx_blue_40
+    21300082: OurArcher-vfx_blue_41
+    21300084: OurArcher-vfx_blue_42
+    21300086: OurArcher-vfx_blue_43
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_6
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_7
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_9
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_18
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_19
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_20
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_23
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_24
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_25
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_26
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_28
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_29
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_30
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_31
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_32
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_33
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_34
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_35
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_38
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_39
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_40
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_41
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_42
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArcher-vfx_blue_43
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

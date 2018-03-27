@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Ladder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obj0
+  - Allies0
+  - Enemy0
+  - Obj1
+  - Allies1
+  - Enemy1
+  - Obj2
+  - Allies2
+  - Enemy2
+  - Obj3
+  - Allies3
+  - Enemy3
+  - Obj4
+  - Allies4
+  - Enemy4
+  - Obj5
+  - Allies5
+  - Enemy5
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

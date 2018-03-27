@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 8ed6769e0f9f7554aabd39d370897ce2
+timeCreated: 1520073960
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OurArchersmoke_0
+    21300002: OurArchersmoke_1
+    21300004: OurArchersmoke_2
+    21300006: OurArchersmoke_3
+    21300008: OurArchersmoke_4
+    21300010: OurArchersmoke_5
+    21300012: OurArchersmoke_6
+    21300014: OurArchersmoke_7
+    21300016: OurArchersmoke_8
+    21300018: OurArchersmoke_9
+    21300020: OurArchersmoke_10
+    21300022: OurArchersmoke_11
+    21300024: OurArchersmoke_12
+    21300026: OurArchersmoke_13
+    21300028: OurArchersmoke_14
+    21300030: OurArchersmoke_15
+    21300032: OurArchersmoke_16
+    21300034: OurArchersmoke_17
+    21300036: OurArchersmoke_18
+    21300038: OurArchersmoke_19
+    21300040: OurArchersmoke_20
+    21300042: OurArchersmoke_21
+    21300044: OurArchersmoke_22
+    21300046: OurArchersmoke_23
+    21300048: OurArchersmoke_24
+    21300050: OurArchersmoke_25
+    21300052: OurArchersmoke_26
+    21300054: OurArchersmoke_27
+    21300056: OurArchersmoke_28
+    21300058: OurArchersmoke_29
+    21300060: OurArchersmoke_30
+    21300062: OurArchersmoke_31
+    21300064: OurArchersmoke_32
+    21300066: OurArchersmoke_33
+    21300068: OurArchersmoke_34
+    21300070: OurArchersmoke_35
+    21300072: OurArchersmoke_36
+    21300074: OurArchersmoke_37
+    21300076: OurArchersmoke_38
+    21300078: OurArchersmoke_39
+    21300080: OurArchersmoke_40
+    21300082: OurArchersmoke_41
+    21300084: OurArchersmoke_42
+    21300086: OurArchersmoke_43
+    21300088: OurArchersmoke_44
+    21300090: OurArchersmoke_45
+    21300092: OurArchersmoke_46
+    21300094: OurArchersmoke_47
+    21300096: OurArchersmoke_48
+    21300098: OurArchersmoke_49
+    21300100: OurArchersmoke_50
+    21300102: OurArchersmoke_51
+    21300104: OurArchersmoke_52
+    21300106: OurArchersmoke_53
+    21300108: OurArchersmoke_54
+    21300110: OurArchersmoke_55
+    21300112: OurArchersmoke_56
+    21300114: OurArchersmoke_57
+    21300116: OurArchersmoke_58
+    21300118: OurArchersmoke_59
+    21300120: OurArchersmoke_60
+    21300122: OurArchersmoke_61
+    21300124: OurArchersmoke_62
+    21300126: OurArchersmoke_63
+    21300128: OurArchersmoke_64
+    21300130: OurArchersmoke_65
+    21300132: OurArchersmoke_66
+    21300134: OurArchersmoke_67
+    21300136: OurArchersmoke_68
+    21300138: OurArchersmoke_69
+    21300140: OurArchersmoke_70
+    21300142: OurArchersmoke_71
+    21300144: OurArchersmoke_72
+    21300146: OurArchersmoke_73
+    21300148: OurArchersmoke_74
+    21300150: OurArchersmoke_75
+    21300152: OurArchersmoke_76
+    21300154: OurArchersmoke_77
+    21300156: OurArchersmoke_78
+    21300158: OurArchersmoke_79
+    21300160: OurArchersmoke_80
+    21300162: OurArchersmoke_81
+    21300164: OurArchersmoke_82
+    21300166: OurArchersmoke_83
+    21300168: OurArchersmoke_84
+    21300170: OurArchersmoke_85
+    21300172: OurArchersmoke_86
+    21300174: OurArchersmoke_87
+    21300176: OurArchersmoke_88
+    21300178: OurArchersmoke_89
+    21300180: OurArchersmoke_90
+    21300182: OurArchersmoke_91
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OurArchersmoke_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_2
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_4
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_6
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_7
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_8
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_9
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 855
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_11
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_12
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_13
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_14
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_15
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_16
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_18
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_19
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_20
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_21
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 760
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_22
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_23
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_25
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_26
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_27
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_28
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_29
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_30
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_31
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 665
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_33
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_34
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_35
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_36
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_37
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_38
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_39
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_40
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_41
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_42
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_43
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 570
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_45
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_46
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_47
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_48
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_49
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_50
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_51
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_52
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_53
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_54
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_55
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 475
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_57
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_58
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_59
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_60
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_61
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_62
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_63
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_64
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_65
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_66
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 380
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_68
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_70
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_71
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_72
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_73
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_74
+      rect:
+        serializedVersion: 2
+        x: 1776
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_75
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_76
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_77
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 285
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_78
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_79
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_80
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_81
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_82
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_83
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 190
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_84
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_85
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_86
+      rect:
+        serializedVersion: 2
+        x: 2442
+        y: 95
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_88
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_89
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_90
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: OurArchersmoke_91
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 222
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,994 @@
+fileFormatVersion: 2
+guid: 9bfdd11ab5cca4e44b86a6f437fcd65b
+timeCreated: 1521729041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EnemyEltSaber_0
+    21300002: EnemyEltSaber_1
+    21300004: EnemyEltSaber_2
+    21300006: EnemyEltSaber_3
+    21300008: EnemyEltSaber_4
+    21300010: EnemyEltSaber_5
+    21300012: EnemyEltSaber_6
+    21300014: EnemyEltSaber_7
+    21300016: EnemyEltSaber_8
+    21300018: EnemyEltSaber_9
+    21300020: EnemyEltSaber_10
+    21300022: EnemyEltSaber_11
+    21300024: EnemyEltSaber_12
+    21300026: EnemyEltSaber_13
+    21300028: EnemyEltSaber_14
+    21300030: EnemyEltSaber_15
+    21300032: EnemyEltSaber_16
+    21300034: EnemyEltSaber_17
+    21300036: EnemyEltSaber_18
+    21300038: EnemyEltSaber_19
+    21300040: EnemyEltSaber_20
+    21300042: EnemyEltSaber_21
+    21300044: EnemyEltSaber_22
+    21300046: EnemyEltSaber_23
+    21300048: EnemyEltSaber_24
+    21300050: EnemyEltSaber_25
+    21300052: EnemyEltSaber_26
+    21300054: EnemyEltSaber_27
+    21300056: EnemyEltSaber_28
+    21300058: EnemyEltSaber_29
+    21300060: EnemyEltSaber_30
+    21300062: EnemyEltSaber_31
+    21300064: EnemyEltSaber_32
+    21300066: EnemyEltSaber_33
+    21300068: EnemyEltSaber_34
+    21300070: EnemyEltSaber_35
+    21300072: EnemyEltSaber_36
+    21300074: EnemyEltSaber_37
+    21300076: EnemyEltSaber_38
+    21300078: EnemyEltSaber_39
+    21300080: EnemyEltSaber_40
+    21300082: EnemyEltSaber_41
+    21300084: EnemyEltSaber_42
+    21300086: EnemyEltSaber_43
+    21300088: EnemyEltSaber_44
+    21300090: EnemyEltSaber_45
+    21300092: EnemyEltSaber_46
+    21300094: EnemyEltSaber_47
+    21300096: EnemyEltSaber_48
+    21300098: EnemyEltSaber_49
+    21300100: EnemyEltSaber_50
+    21300102: EnemyEltSaber_51
+    21300104: EnemyEltSaber_52
+    21300106: EnemyEltSaber_53
+    21300108: EnemyEltSaber_54
+    21300110: EnemyEltSaber_55
+    21300112: EnemyEltSaber_56
+    21300114: EnemyEltSaber_57
+    21300116: EnemyEltSaber_58
+    21300118: EnemyEltSaber_59
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemyEltSaber_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_2
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_3
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_4
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_5
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 864
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_9
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_10
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_11
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 768
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_14
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_16
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_17
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 672
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_19
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_20
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_21
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_22
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_23
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 576
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_25
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_26
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_27
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_28
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_29
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 480
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_34
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_35
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 384
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_37
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_39
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_40
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_41
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 288
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_43
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_44
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_45
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_46
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_47
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 192
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_49
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_50
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_51
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_52
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_53
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 96
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_55
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_56
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_57
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: EnemyEltSaber_59
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 246
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
